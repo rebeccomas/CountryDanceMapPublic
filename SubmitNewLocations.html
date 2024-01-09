@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Country Dance Map</title>
+    <link rel="stylesheet" type="text/css" href="./style.css" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+  </head>
+
+  <body>
+    <header>
+      <nav class="menu">
+        <ul>
+          <li><a href="./index.html">Country Dance Map</a></li>
+          <!-- <li><a href="EventCalendar.html"> Event Calendar</a></li> -->
+          <!-- <li><a href="AboutUs.html"> About Us</a></li> -->
+          <li><a href="./ContactUs.html">Contact Us</a></li>
+          <!-- <li><a href="FAQ.html"> FAQ</a></li> -->
+          <!-- <li><a href="./SubmitNewLocations.html">Submit New Locations</a></li> -->
+          <li>Submit New Locations</li>
+        </ul>
+      </nav>
+      <section class="webpage"><h1>Submit New Locations</h1></section>
+    </header>
+
+ 
+
+    <section class="requestSection">
+      <div class="requestContainer" >
+        <form autocomplete="off" method="post" action=""  onsubmit= "validateForm()" name="request-form" style="text-align: center;">
+          <h3>Know a place to dance that isn't already on the map? Fill out the form for your dance spot to be added!</h3>
+
+          <input type="hidden" name="Time Submitted" id ="submitTime" value="">
+          <section class= "input" style="display: inline-flex;">
+            <div style="padding-right: 10px;"> 
+              <div><b>Enter your Name:</b></div>
+              <div><input type="text" name="Your Name" placeholder="Full Name" required></div>
+            </div>
+            
+           <div>
+            <div><label for="email"><b>Enter your email:</b></label></div>
+            <div><input  autocomplete="false" type="email" id="email" name="Email"  placeholder="Email Address" size = "30" required></div>
+           </div>
+          </section>
+          <section class= "LocInfo">
+
+            <!-- Address -->
+            <section class="input">
+              <b>Address</b>
+              <ul>
+                <li>
+                  <label for="Name">Building Name:</label><br>
+                  <input type="text" name="Name" autocomplete="off" placeholder="Cedar Lake Cellars" required>
+                </li>
+                <li>
+                  <label for="street-address">Street Address:</label><br>
+                  <input type="text" id="street-address" name="Address" autocomplete="off" placeholder="11008 Schreckengast Rd" required></input>
+                </li>
+                <li>
+                  <label for="city">City:</label><br>
+                  <input type="text" id="city" name="City" autocomplete="off" placeholder="Wright City" required>
+                </li>
+                <li>
+                  <label for="state">State:</label><br>
+                  <select id = "state" name="State" autocomplete="off">
+                    <option value="-"> - </option>
+                    <option value="AL"> Alabama </option>
+                    <option value="AK"> Alaska </option>
+                    <option value="AZ"> Arizona </option>
+                    <option value="AR"> Arkansas </option>
+                    <option value="CA"> California </option>
+                    <option value="CO"> Colorado </option>
+                    <option value="CT"> Connecticut </option>
+                    <option value="DE"> Delaware </option>
+                    <option value="FL"> Florida </option>
+                    <option value="GA"> Georgia </option>
+                    <option value="HI"> Hawaii </option>
+                    <option value="ID"> Idaho </option>
+                    <option value="IL"> Illinois </option>
+                    <option value="IN"> Indiana </option>
+                    <option value="IA"> Iowa </option>
+                    <option value="KS"> Kansas </option>
+                    <option value="KY"> Kentucky </option>
+                    <option value="LA"> Louisiana </option>
+                    <option value="ME"> Maine </option>
+                    <option value="MD"> Maryland </option>
+                    <option value="MA"> Massachusetts </option>
+                    <option value="MI"> Michigan </option>
+                    <option value="MN"> Minnesota </option>
+                    <option value="MS"> Mississippi </option>
+                    <option value="MO"> Missouri </option>
+                    <option value="MT"> Montana </option>
+                    <option value="NE"> Nebraska </option>
+                    <option value="NV"> Nevada </option>
+                    <option value="NH"> New Hampshire </option>
+                    <option value="NJ"> New Jersey </option>
+                    <option value="NM"> New Mexico </option>
+                    <option value="NY"> New York </option>
+                    <option value="NC"> North Carolina </option>
+                    <option value="ND"> North Dakota </option>
+                    <option value="OH"> Ohio </option>
+                    <option value="OK"> Oklahoma </option>
+                    <option value="OR"> Oregon </option>
+                    <option value="PA"> Pennsylvania </option>
+                    <option value="RI"> Rhode Island </option>
+                    <option value="SC"> South Carolina </option>
+                    <option value="SD"> South Dakota </option>
+                    <option value="TN"> Tennessee </option>
+                    <option value="TX"> Texas </option>
+                    <option value="UT"> Utah </option>
+                    <option value="VT"> Vermont </option>
+                    <option value="VA"> Virginia </option>
+                    <option value="WA"> Washington </option>
+                    <option value="WV"> West Virginia </option>
+                    <option value="WI"> Wisconsin </option>
+                    <option value="WY"> Wyoming </option>
+                  </select>
+                </li>
+                <li>
+                  <label for="zip-code">ZIP or Postal Code:</label><br>
+                  <input class="zip-code" id="zip-code" autocomplete="off" name="Zip Code"placeholder="63390">
+                </li>
+              </ul>
+              <!-- <div style="color: rgb(88, 88, 88); padding-bottom: 5px;"></div> -->
+
+            </section>
+
+            <!-- Dance Styles -->
+            <section class="input">
+              <b>Dance Styles</b>
+              <div style="text-align: left; padding-top: 25px;">
+                <input type = "checkbox" id= "LD_Box" name="Line Dance"> <label for="LDBox">Line Dance</label><br>
+                <input type = "checkbox" id= "PP_Box" name="Pattern Partner"> <label for="PPBox">Pattern Partner</label><br>
+                <input type = "checkbox" id= "CTS_Box" name="Classic Two-Step"> <label for="LineDanceBox">Classic Two-Step</label><br>
+                <input type = "checkbox" id= "TTS_Box" name="Texas Two-Step"> <label for="LineDanceBox">Texas Two-Step</label><br>
+                <input type = "checkbox" id= "BCS_Box" name="Bar Coast Swing"> <label for="LineDanceBox">Bar Coast Swing</label><br>
+                <input type = "checkbox" id= "CS_Box" name="Country Swing"> <label for="LineDanceBox">Country Swing</label><br>
+                <input type = "checkbox" id= "ECS_Box" name="East Coast Swing"> <label for="LineDanceBox">East Coast Swing</label><br>
+                <input type = "checkbox" id= "WCS_Box" name="West Coast Swing"> <label for="LineDanceBox">West Coast Swing</label><br>
+              </div>
+            </section>
+
+            <!-- Age Restriction -->
+            <section class="input">
+              <b>Age Restrictions and Cover Fees</b>
+              <div style=" display: flex; flex-direction: row;  justify-content: space-evenly; padding-top: 25px;">
+                <div>
+                  <input type="radio" id="NoRestrict" name="Age Restriction" Value="None" checked>
+                  <label for="NoRestrict">None</label>
+                </div>
+                <div>
+                  <input type="radio" id="18+" name="Age Restriction" Value="18+">
+                  <label for="18+">18+</label>
+                </div>
+                <div>
+                  <input type="radio" id="21+" name="Age Restriction" Value="21+">
+                  <label for="21+">21+</label>
+                </div>
+              </div>
+              <div style="padding-top: 20px;">
+                <div>
+                  <label for="21+" >21+ Cover Fee: </label><br>
+                  <input type="text" name="21+ Cover" placeholder="5" >
+                </div>
+                <div id="under21CoverFee" style="padding-top: 10px;">
+                  <label for="18+">Under 21 Cover Fee: </label><br>
+                  <input type="text" name="Under 21 Cover" placeholder="10"><br>
+                </div>
+                
+                
+              </div>
+            </section>
+
+            <!-- Notes -->
+            <section class = "input">
+              <div><b>Notes</b></div>
+              <div style="padding-top: 25px;">
+                <textarea name="Notes" rows="10" cols="30" placeholder="Addtional Things to Note."></textarea>
+              </div>
+              
+            </section>
+          </section>
+
+          <!-- Dance Schedule -->
+          <section class= "DanceSchduleBox" >
+            <b>Dance Schedule</b>
+            <section>
+              <div style="padding-top: 10px;">Monday</div>
+              <div id = "Monday" style="display: flex; flex-direction: row; justify-content: center;">
+                <section class = "input" >
+                    <div style="padding-bottom: 5px;">Time Frame</div>
+                  <div class="startTime">
+                    <label for="StartHourM">Start Time: </label>
+                    <input type="time" id="StartHourM" name="Monday Start">
+                  </div>
+                  <div>
+                    <label for="EndHourM">End Time: </label>
+                    <input type="time" id="EndHourM" name="Monday End" >
+                  </div>
+                </section>
+              </div>
+              <div class="MondayButton">
+                <input  type="button" onclick="addLesson('Monday')" value="Add Lesson"></button> 
+                <div><span class="popuptext" id="MondayPopupText">Lesson Limit Reached!</span></div> 
+              </div>
+            </section>
+
+            <section>
+              <div style="padding-top: 10px;">Tuesday</div>
+              <div id = "Tuesday" style="display: flex; flex-direction: row; justify-content: center;">
+                <section class = "input">
+                    <div style="padding-bottom: 5px;">Time Frame</div>
+                  <div class="startTime">
+                    <label for="StartHourT">Start Time: </label>
+                    <input type="time" id="StartHourT" name="Tuesday Start">
+                  </div>
+                  <div>
+                    <label for="EndHourT">End Time: </label>
+                    <input type="time" id="EndHourT" name="Tuesday End" >
+                  </div>
+                </section>
+              </div>
+              <div class="TuesdayButton">
+                <input  type="button" onclick="addLesson('Tuesday')" value="Add Lesson"></button> 
+                <div><span class="popuptext" id="TuesdayPopupText">Lesson Limit Reached!</span></div> 
+              </div>
+            </section>
+            
+            <section>
+              <div style="padding-top: 10px;">Wednesday</div>
+              <div id = "Wednesday" style="display: flex; flex-direction: row; justify-content: center;">
+                <section class = "input" >
+                    <div style="padding-bottom: 5px;">Time Frame</div>
+                  <div class="startTime">
+                    <label for="StartHourW">Start Time: </label>
+                    <input type="time" id="StartHourW" name="Wednesday Start">
+                  </div>
+                  <div>
+                    <label for="EndHourW">End Time: </label>
+                    <input type="time" id="EndHourW" name="Wednesday End" >
+                  </div>
+                </section>
+              </div>
+              <div class="WednesdayButton">
+                <input  type="button" onclick="addLesson('Wednesday')" value="Add Lesson"></button> 
+                <div><span class="popuptext" id="WednesdayPopupText">Lesson Limit Reached!</span></div> 
+              </div>
+            </section>
+
+            <section>
+              <div style="padding-top: 10px;">Thursday</div>
+              <div id = "Thursday" style="display: flex; flex-direction: row; justify-content: center;">
+                <section class = "input" >
+                    <div style="padding-bottom: 5px;">Time Frame</div>
+                  <div class="startTime">
+                    <label for="StartHourTh">Start Time: </label>
+                    <input type="time" id="StartHourTh" name="Thursday Start">
+                  </div>
+                  <div>
+                    <label for="EndHourTh">End Time: </label>
+                    <input type="time" id="EndHourTh" name="Thursday End" >
+                  </div>
+                </section>
+              </div>
+              <div class="ThursdayButton">
+                <input  type="button" onclick="addLesson('Thursday')" value="Add Lesson"></button> 
+                <div><span class="popuptext" id="ThursdayPopupText">Lesson Limit Reached!</span></div> 
+              </div>
+            </section>
+
+            <section>
+              <div style="padding-top: 10px;">Friday</div>
+              <div id = "Friday" style="display: flex; flex-direction: row; justify-content: center;">
+                <section class = "input" >
+                    <div style="padding-bottom: 5px;">Time Frame</div>
+                  <div class="startTime">
+                    <label for="StartHourF">Start Time: </label>
+                    <input type="time" id="StartHourF" name="Friday Start">
+                  </div>
+                  <div>
+                    <label for="EndHourF">End Time: </label>
+                    <input type="time" id="EndHourF" name="Friday End" >
+                  </div>
+                </section>
+              </div>
+              <div class="FridayButton">
+                <input  type="button" onclick="addLesson('Friday')" value="Add Lesson"></button> 
+                <div><span class="popuptext" id="FridayPopupText">Lesson Limit Reached!</span></div> 
+              </div>
+            </section>
+
+            <section>
+              <div style="padding-top: 10px;">Saturday</div>
+              <div id = "Saturday" style="display: flex; flex-direction: row; justify-content: center;">
+                <section class = "input" >
+                    <div style="padding-bottom: 5px;">Time Frame</div>
+                  <div class="startTime">
+                    <label for="StartHourS">Start Time: </label>
+                    <input type="time" id="StartHourS" name="Saturday Start">
+                  </div>
+                  <div>
+                    <label for="EndHourS">End Time: </label>
+                    <input type="time" id="EndHourS" name="Saturday End" >
+                  </div>
+                </section>
+              </div>
+              <div class="SaturdayButton">
+                <input  type="button" onclick="addLesson('Saturday')" value="Add Lesson"></button> 
+                <div><span class="popuptext" id="SaturdayPopupText">Lesson Limit Reached!</span></div> 
+              </div>
+            </section>
+
+            <section>
+              <div style="padding-top: 10px;">Sunday</div>
+              <div id = "Sunday" style="display: flex; flex-direction: row; justify-content: center;">
+                <section class = "input" >
+                    <div style="padding-bottom: 5px;">Time Frame</div>
+                  <div class="startTime">
+                    <label for="StartHourSu">Start Time: </label>
+                    <input type="time" id="StartHourSu" name="Sunday Start">
+                  </div>
+                  <div>
+                    <label for="EndHourSu">End Time: </label>
+                    <input type="time" id="EndHourSu" name="Sunday End" >
+                  </div>
+                </section>
+              </div>
+              <div class="SundayButton">
+                <input  type="button" onclick="addLesson('Sunday')" value="Add Lesson"></button> 
+                <div><span class="popuptext" id="SundayPopupText">Lesson Limit Reached!</span></div> 
+              </div>
+            </section>
+            
+          </section>
+          <input type="submit" value="submit" id="submit">
+        </form>
+      </div>
+    </section>
+
+    <footer>The Country Dance Map</footer>
+
+    <!-- Javascript Code -->
+
+    <!-- Set variables to indicate the number of lessons listed for each Day of the Week -->
+    <script>
+          let numLesssonsMonday = 0;
+          let numLesssonsTuesday = 0;
+          let numLesssonsWednesday = 0;
+          let numLesssonsThursday = 0;
+          let numLesssonsFriday = 0;
+          let numLesssonsSaturday = 0;
+          let numLesssonsSunday = 0;
+    </script>
+
+    <!-- When the Add Lesson button is clicked, a new section is added to the webpage so that information about
+    lessons can be added.
+    Limiting the number of potential lessons to 5 to allow for up to 5 different Dance Style Lessons but
+    no more so that the screen doesn't get overfilled-->
+    <script>
+      function addLesson(day) {
+        let int;
+        var popup = document.getElementById(day+"PopupText");
+        if (day == "Monday"){
+          if(numLesssonsMonday == 5){
+            popup.classList.toggle("show");
+            return;
+          }
+          numLesssonsMonday++;
+          int = numLesssonsMonday;
+          // console.log("number of lessons on Monday increased to: " +numLesssonsMonday)
+
+        } else if (day == "Tuesday"){
+          if(numLesssonsTuesday == 5){
+            popup.classList.toggle("show");
+            return;
+          }
+          numLesssonsTuesday++;
+          int = numLesssonsTuesday;
+          // console.log("number of lessons on Tuesday increased to: " +numLesssonsTuesday)
+        }else if (day == "Wednesday"){
+          if(numLesssonsWednesday == 5){
+            popup.classList.toggle("show");
+            return;
+          }
+          numLesssonsWednesday++;
+          int = numLesssonsWednesday;
+          // console.log("number of lessons on Wednesday increased to: " +numLesssonsWednesday)
+        }else if (day == "Thursday"){
+          if(numLesssonsThursday == 5){
+            popup.classList.toggle("show");
+            return;
+          }
+          numLesssonsThursday++;
+          int = numLesssonsThursday;
+          // console.log("number of lessons on Thursday increased to: " +numLesssonsThursday)
+        }else if (day == "Friday"){
+          if(numLesssonsFriday == 5){
+            popup.classList.toggle("show");
+            return;
+          }
+          numLesssonsFriday++;
+          int = numLesssonsFriday;
+          // console.log("number of lessons on Friday increased to: " +numLesssonsFriday)
+        }else if (day == "Saturday"){
+          if(numLesssonsSaturday == 5){
+            popup.classList.toggle("show");
+            return;
+          }
+          numLesssonsSaturday++;
+          int = numLesssonsSaturday;
+          // console.log("number of lessons on Saturday increased to: " +numLesssonsSaturday)
+        }else {
+          if(numLesssonsSunday == 5){
+            popup.classList.toggle("show");
+            return;
+          }
+          numLesssonsSunday++;
+          int = numLesssonsSunday;
+          // console.log("number of lessons on Sunday: " +numLesssonsSunday)
+        }
+
+          let newLessonSec = document.createElement("SECTION");
+          let newLesson = document.createElement("DIV");
+          newLessonSec.className ="input";
+          newLesson.id = day+"Lesson#"+int;
+          newLesson.style.paddingBottom = "5px";
+          newLesson.innerHTML = 
+            '<div style="padding-bottom: 5px; display: inline; justify-content: space-between;">'+
+                  '<label for="DanceStyle" style">Lesson Style: </label>'+
+                  '<select id="DanceStyle" name="'+newLesson.id+ 'Style" style="text-align: center;">'+
+                    '<option value="Line Dance"> Line Dance </option>'+
+                    '<option value="Pattern Partner"> Pattern Partner </option>'+
+                    '<option value="Classic Two-Step"> Classic Two-Step </option>'+
+                    '<option value="Texas Two-Step"> Texas Two-Step </option>'+
+                    '<option value="Bar Coast Swing"> Bar Coast Swing </option>'+
+                    '<option value="Country Swing"> Country Swing </option>'+
+                    '<option value="East Coast Swing"> East Coast Swing </option>'+
+                    '<option value="West Coast Swing"> West Coast Swing </option>'+
+                    '<option value="West Coast Swing"> Varies </option>'+
+                  '</select>'+
+                  '<input class= "deleteL" type="button" onclick="deleteLesson('+"'" +day+ "'" +',' +int+')" value="x" style="right:0;"></button>'+
+            '</div>'+
+            '<div class="startTime"'+
+              '<label for="StartHour">Start Time: </label>'+
+              '<input type="time" id="StartHour" name="'+newLesson.id+ 'Start"> ' +
+            '</div>'+
+            '<div>'+
+              '<label for="EndHour">End Time: </label>'+
+              '<input type="time" id="EndHour" name="'+newLesson.id+ 'End">'+
+            '</div>'
+        newLessonSec.appendChild(newLesson)
+        document.getElementById(day).appendChild(newLessonSec);
+      }
+    </script>
+
+    <!-- DeleteLessons() is used to delete unwanted lessons that were accidently added by the user. This is called
+    when the x button on the right right of the lessons box is clicked. -->
+    <script>
+      function deleteLesson(day,intL){
+        document.getElementById(day+"Lesson#"+intL).parentElement.remove()
+        let int;
+        if (day == "Monday"){
+          numLesssonsMonday--;
+          int = numLesssonsMonday;
+          // console.log("number of lessons on Monday decreased to: " +numLesssonsMonday)
+        } else if (day == "Tuesday"){
+          numLesssonsTuesday--;
+          int = numLesssonsTuesday;
+          // console.log("number of lessons on Tuesday decreased to: " +numLesssonsTuesday)
+        }else if (day == "Wednesday"){
+          numLesssonsWednesday--;
+          int = numLesssonsWednesday;
+          // console.log("number of lessons on Wednesday decreased to: " +numLesssonsWednesday)
+        }else if (day == "Thursday"){
+          numLesssonsThursday--;
+          int = numLesssonsThursday;
+          // console.log("number of lessons on Thursday decreased to: " +numLesssonsThursday)
+        }else if (day == "Friday"){
+          numLesssonsFriday--;
+          int = numLesssonsFriday;
+          // console.log("number of lessons on Friday decreased to: " +numLesssonsFriday)
+        }else if (day == "Saturday"){
+          numLesssonsSaturday--;
+          int = numLesssonsSaturday;
+          // console.log("number of lessons on Saturday decreased to: " +numLesssonsSaturday)
+        }else {
+          numLesssonsSunday--;
+          int = numLesssonsSunday;
+          // console.log("number of lessons on Sunday decreased to: " +numLesssonsSunday)
+        }
+        let temp = intL+1;
+        for (let i = intL; i < int+1;i++){
+          {
+            document.getElementById(day+"Lesson#"+temp).querySelectorAll('.deleteL')[0].setAttribute("onclick",'deleteLesson('+"'" +day+ "'" +',' +i+')');
+            document.getElementById(day+"Lesson#"+temp).id = day+"Lesson#"+i;
+            temp++;
+          }
+        }
+      }
+
+    </script>
+    <!-- This is used to close the popup box that appears when the user tries to open a 6th lesson box. 
+    this allows the user to click anywhere outside of the "Add Lesson" button div to close the pop up.
+    By default the user can close this button if they click the button when the pop up is open. -->
+    <script>
+      let days =["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"];
+      let yourContainer;
+      document.addEventListener('click', function(event){
+        days.forEach(function(DoW){
+        yourContainer = document.querySelector('.'+DoW+'Button');
+        if(!yourContainer.contains(event.target)) {
+              if(window.getComputedStyle(document.getElementById(DoW+"PopupText")).visibility == "visible"){
+              document.getElementById(DoW+"PopupText").classList.toggle("show");
+            } 
+        }
+      });
+    })
+    </script>
+
+    <script>
+      document.addEventListener('click', function(){
+        if(document.querySelector('input[name="Age Restriction"]:checked').value == "None"  || document.querySelector('input[name="Age Restriction"]:checked').value == "18+"){
+          document.getElementById("under21CoverFee").style.visibility = "visible"
+        }else{
+          document.getElementById("under21CoverFee").style.visibility = "hidden"
+        }
+      });
+    </script>
+  <!-- set up the time which the form was submitted when checking to see if enough information is filled out to submit -->
+    <!-- <script>
+      var currentTime = new Date();          
+      document.getElementById("submitTime").value = currentTime;
+
+          console.log(document.getElementById('PP_Box').checked)
+      // }
+      
+    </script> -->
+   
+    <script>
+       let valid = false;
+      function validateForm() {
+
+        var currentTime = new Date();          
+        document.getElementById("submitTime").value = currentTime;
+        // alert(document.getElementById('StartHourM').value != "")
+        if ((document.getElementById('StartHourM').value =="" && document.getElementById('EndHourM').value =="") &&
+        (document.getElementById('StartHourT').value =="" && document.getElementById('EndHourT').value =="") &&
+        (document.getElementById('StartHourW').value =="" && document.getElementById('EndHourW').value =="") &&
+        (document.getElementById('StartHourTh').value =="" && document.getElementById('EndHourTh').value =="") &&
+        (document.getElementById('StartHourF').value =="" && document.getElementById('EndHourF').value =="") &&
+        (document.getElementById('StartHourS').value =="" && document.getElementById('EndHourS').value =="") &&
+        (document.getElementById('StartHourSu').value =="" && document.getElementById('EndHourSu').value ==""))
+        {
+          alert("At least one day in the Dance Schedule must be filled out");
+          valid = false;
+        } else if (document.getElementById('LD_Box').checked == false && document.getElementById('PP_Box').checked == false &&
+        document.getElementById('CTS_Box').checked == false && document.getElementById('TTS_Box').checked == false && 
+        document.getElementById('BCS_Box').checked == false && document.getElementById('CS_Box').checked == false && 
+        document.getElementById('ECS_Box').checked == false && document.getElementById('WCS_Box').checked == false)
+        {
+          alert("At least one Dance Style must be selected");
+          valid = false;
+        } else{
+          valid = true;
+        } 
+        return true;
+      }
+    </script>
+
+    <script src="./Google_Sheets.js"></script>
+ </body>
+</html>
+
+<!-- id= "LD_Box" name="Line Dance"> <label for="LDBox">Line Dance</label><br>
+<input type = "checkbox" id= "PP_Box" name="Pattern Partner"> <label for="PPBox">Pattern Partner</label><br>
+<input type = "checkbox" id= "CTS_Box" name="Classic Two-Step"> <label for="LineDanceBox">Classic Two-Step</label><br>
+<input type = "checkbox" id= "TTS_Box" name="Texas Two-Step"> <label for="LineDanceBox">Texas Two-Step</label><br>
+<input type = "checkbox" id= "BCS_Box" name="Bar Coast Swing"> <label for="LineDanceBox">Bar Coast Swing</label><br>
+<input type = "checkbox" id= "CS_Box" name="Country Swing"> <label for="LineDanceBox">Country Swing</label><br>
+<input type = "checkbox" id= "ECS_Box" name="East Coast Swing"> <label for="LineDanceBox">East Coast Swing</label><br>
+<input type = "checkbox" id= "WCS_Box" -->

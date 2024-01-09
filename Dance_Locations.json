@@ -1,0 +1,2918 @@
+{
+	"Dance_Locations":[
+		{
+			"Name": "2155 Ballroom & Events",
+			"Coordinate": {
+				"Latitude": 32.9695649, 
+				"Longitude": -96.855366
+			},
+			"Country": "United States",
+			"State": "TX",
+			"Address": "2155 Marsh Ln Ste 144, Carrollton, TX 75006",
+			"Place ID": "ChIJv-fVML0mTIYRQguj9VByyx8",
+			"Website": "2155dance.com",
+			"Dance Style": {
+				"Line Dance": false, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": true
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/2155+Ballroom+%26+Events/@32.9695605,-96.8560603,19.05z/data=!4m6!3m5!1s0x864c26bd30d5e7bf:0x1fcb7250f5a30b42!8m2!3d32.9695649!4d-96.8553663!16s%2Fg%2F11c1xgbcsj?entry=ttu"
+		},
+		{
+			"Name": "8 Seconds Saloon",
+			"Coordinate": {
+				"Latitude": 39.767724, 
+				"Longitude": -86.24897
+			},
+			"Country": "United States",
+			"State": "IN",
+			"Address": "111 N Lynhurst Dr, Indianapolis, IN 46224",
+			"Place ID": "ChIJfeaw5eRXa4gRKs0aTW62eoE",
+			"Website": "8secondssaloon.net",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "Y", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "Y", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/8+Seconds+Saloon/@39.7677252,-86.25927,15z/data=!3m1!4b1!4m6!3m5!1s0x886b57e4e5b0e67d:0x817ab66e4d1acd2a!8m2!3d39.7677257!4d-86.2489917!16s%2Fm%2F0k0w8tn?entry=ttu"
+		},
+		{
+			"Name": "Bigshots Billiards Bar & Grill",
+			"Coordinate": {
+				"Latitude": 33.621472, 
+				"Longitude": -117.69887
+			},
+			"Country": "United States",
+			"State": "CA",
+			"Address": "23512 El Toro Rd, Lake Forest, CA 92630",
+			"Place ID": "ChIJ0XoCdvno3IAR_iUD6bVckFg",
+			"Website": "bigshotsbilliards.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "Y", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Bigshots+Billiards+Bar+%26+Grill/@33.6214716,-117.7091441,15z/data=!3m1!4b1!4m6!3m5!1s0x80dce8f976027ad1:0x58905cb5e90325fe!8m2!3d33.621472!4d-117.6988658!16s%2Fg%2F1tfmcjr0?entry=ttu"
+		},
+		{
+			"Name": "Billy Bob's Texas",
+			"Coordinate": {
+				"Latitude": 32.791326, 
+				"Longitude": -97.34743
+			},
+			"Country": "United States",
+			"State": "TX",
+			"Address": "2520 Rodeo Plaza, Fort Worth, TX 76164",
+			"Place ID": "ChIJicMctaZ2ToYRO3XijxEGWzI",
+			"Website": "billybobstexas.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Billy+Bob's+Texas/@32.7913256,-97.3577083,15z/data=!3m1!4b1!4m6!3m5!1s0x864e76a6b51cc389:0x325b06118fe2753b!8m2!3d32.791326!4d-97.34743!16zL20vMDZzZ2t4?entry=ttu"
+		},
+		{
+			"Name": "Billy Joe's Ribworks",
+			"Coordinate": {
+				"Latitude": 41.5022356, 
+				"Longitude": -74.005276
+			},
+			"Country": "United States",
+			"State": "NY",
+			"Address": "26 Front St, Newburgh, NY 12550",
+			"Place ID": "ChIJMXplNiAy3YkRDpoPgXyxCn4",
+			"Website": "ribworks.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Billy+Joe's+Ribworks/@41.502243,-74.0155549,15z/data=!3m1!4b1!4m6!3m5!1s0x89dd322036657a31:0x7e0ab17c810f9a0e!8m2!3d41.5022435!4d-74.0052766!16s%2Fg%2F1tgkj8nw?entry=ttu"
+		},
+		{
+			"Name": "Bushwackers Saloon & Dance Hall",
+			"Coordinate": {
+				"Latitude": 41.2015527, 
+				"Longitude": -96.026805
+			},
+			"Country": "United States",
+			"State": "NE",
+			"Address": "7401 Main St, Ralston, NE 68127",
+			"Place ID": "ChIJVXBrdH-Lk4cR5Y9BY77oTxw",
+			"Website": "bushwackerssaloonomaha.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": true, 
+				"Texas Two-Step": true, 
+				"Bar Coast Swing": false, 
+				"Country Swing": true, 
+				"East Coast Swing": true, 
+				"West Coast Swing": true
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "9:00 PM - 2:00 AM", 
+				"Thursday": "9:00 PM - 2:00 AM", 
+				"Friday": "9:00 PM - 2:00 AM", 
+				"Saturday": "9:00 PM - 2:00 AM", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "Couples: 7:00 PM - 8:00 PM | West Coast Swing: 9:30 PM - 10:00 PM", 
+				"Thursday": "Line dance 8:00 PM - 9:00 PM", 
+				"Friday": "Line dance 8:00 PM - 9:00 PM", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "N", 
+				"21+": "N"
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Bushwackers+Saloon+%26+Dance+Hall/@41.2015522,-96.0370834,15z/data=!3m1!4b1!4m6!3m5!1s0x87938b7f746b7055:0x1c4fe8be63418fe5!8m2!3d41.2015527!4d-96.0268051!16s%2Fg%2F1tgz5_0m?entry=ttu"
+		},
+		{
+			"Name": "Cadillac Ranch",
+			"Coordinate": {
+				"Latitude": 35.0729584, 
+				"Longitude": -78.928416
+			},
+			"Country": "United States",
+			"State": "NC",
+			"Address": "3101 Fort Bragg Rd, Fayetteville, NC 28303",
+			"Place ID": "ChIJA_3KZ6dsq4kRCcHU9zpju3U",
+			"Website": "https://www.facebook.com/CadillacRanchFayetteville/",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Cadillac+Ranch/@35.0729188,-78.9386602,15z/data=!4m15!1m8!3m7!1s0x89ab6ca7674e2c01:0x321fd9ec168d7d52!2s3101+Fort+Bragg+Rd,+Fayetteville,+NC+28303!3b1!8m2!3d35.0729192!4d-78.9283819!16s%2Fg%2F11b8ym5qc4!3m5!1s0x89ab6ca767cafd03:0x75bb633af7d4c109!8m2!3d35.0729529!4d-78.9284159!16s%2Fg%2F1tfcd0_6?entry=ttu"
+		},
+		{
+			"Name": "Cedar Lake Cellars",
+			"Coordinate": {
+				"Latitude": 38.7814566, 
+				"Longitude": -90.982451
+			},
+			"Country": "United States",
+			"State": "MO",
+			"Address": "11008 Schreckengast Rd, Wright City, MO 63390",
+			"Place ID": "ChIJ04AC5Cy33ocRvs64wvgReRk",
+			"Website": "cedarlakecellars.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": true, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "7:00 PM - 11:00 PM", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "21+",
+			"Cover Fee": {
+				"Under 21": "N", 
+				"21+": "N"
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Cedar+Lake+Cellars/@38.7814566,-90.9824514,17z/data=!3m1!4b1!4m6!3m5!1s0x87deb72ce40280d3:0x197911f8c2b8cebe!8m2!3d38.7814566!4d-90.9824514!16s%2Fg%2F1tjkgbjz?entry=ttu"
+		},
+		{
+			"Name": "Chesterfield Mall Food Court",
+			"Coordinate": {
+				"Latitude": 38.6511932, 
+				"Longitude": -90.565
+			},
+			"Country": "United States",
+			"State": "MO",
+			"Address": "291 Chesterfield Center, Chesterfield, MO 63017",
+			"Place ID": "ChIJp469NNUq34cRvvMHMQ3pfvY",
+			"Website": "chesterfieldmallstl.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "Y", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "5", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Chesterfield+Mall/@38.6544859,-90.6679508,12z/data=!4m10!1m2!2m1!1sChesterfield+Mall+Food+Court!3m6!1s0x87df2ad534bd8ea7:0xf67ee90d3107f3be!8m2!3d38.6511932!4d-90.5649999!15sChxDaGVzdGVyZmllbGQgTWFsbCBGb29kIENvdXJ0Wh4iHGNoZXN0ZXJmaWVsZCBtYWxsIGZvb2QgY291cnSSAQ9zaG9wcGluZ19jZW50ZXKaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTkhNa3RxYkMxUlJSQULgAQA!16s%2Fm%2F0b6k8w2?entry=ttu"
+		},
+		{
+			"Name": "Copperhead Road Bar & Nightclub",
+			"Coordinate": {
+				"Latitude": 38.878938, 
+				"Longitude": -104.75774
+			},
+			"Country": "United States",
+			"State": "CO",
+			"Address": "3330 N Academy Blvd, Colorado Springs, CO 80917",
+			"Place ID": "ChIJgRlnA1RPE4cRIc7R1UivGoI",
+			"Website": "copperheadroadbar.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "Y", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Copperhead+Road+Bar+%26+Nightclub/@38.8789378,-104.7577566,17z/data=!3m1!4b1!4m6!3m5!1s0x87134f5403671981:0x821aaf48d5d1ce21!8m2!3d38.8789378!4d-104.7577566!16s%2Fm%2F0k91dpc?entry=ttu"
+		},
+		{
+			"Name": "Cotton Eyed Joe",
+			"Coordinate": {
+				"Latitude": 35.9049139, 
+				"Longitude": -84.154497
+			},
+			"Country": "United States",
+			"State": "TN",
+			"Address": "11220 Outlet Dr, Knoxville, TN 37932",
+			"Place ID": "ChIJ6b44HlguXIgRH6wcZfZAZLQ",
+			"Website": "cottoneyedjoe.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "Y", 
+				"Saturday": "Y", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Cotton+Eyed+Joe/@35.9049135,-84.1647755,15z/data=!3m1!4b1!4m6!3m5!1s0x885c2e581e38bee9:0xb46440f6651cac1f!8m2!3d35.9049139!4d-84.1544972!16s%2Fm%2F0kh9hls?entry=ttu"
+		},
+		{
+			"Name": "Cowboys",
+			"Coordinate": {
+				"Latitude": 38.8348509, 
+				"Longitude": -104.82316
+			},
+			"Country": "United States",
+			"State": "CO",
+			"Address": "25 N Tejon St, Colorado Springs, CO 80903",
+			"Place ID": "ChIJaWUVtCJFE4cRoJoFsAcPGY0",
+			"Website": "cowboyscs.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Cowboys/@38.834981,-104.8335698,15z/data=!4m15!1m8!3m7!1s0x87134522b1ca5f79:0x674ffe64954d4cea!2s25+N+Tejon+St,+Colorado+Springs,+CO+80903!3b1!8m2!3d38.8349815!4d-104.8232915!16s%2Fg%2F11c2fq4ykr!3m5!1s0x87134522b4156569:0x8d190f07b0059aa0!8m2!3d38.8348643!4d-104.8231722!16s%2Fg%2F11b77sqf9l?entry=ttu"
+		},
+		{
+			"Name": "Cowboys Dance Hall",
+			"Coordinate": {
+				"Latitude": 27.8840647, 
+				"Longitude": -82.728065
+			},
+			"Country": "United States",
+			"State": "FL",
+			"Address": "12333 66th St N, Largo, FL 33773",
+			"Place ID": "ChIJX9SDdQzlwogRYeQnSoSaiFE",
+			"Website": "cowboysdancehallfl.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Cowboys+Dance+Hall/@27.8840647,-82.7280652,17z/data=!3m1!4b1!4m6!3m5!1s0x88c2e50c7583d45f:0x51889a844a27e461!8m2!3d27.8840647!4d-82.7280652!16s%2Fg%2F11svfxxmqm?entry=ttu"
+		},
+		{
+			"Name": "Cowboys Orlando",
+			"Coordinate": {
+				"Latitude": 28.529, 
+				"Longitude": -81.3976
+			},
+			"Country": "United States",
+			"State": "FL",
+			"Address": "1108 S Orange Blossom Trl Suite A, Orlando, FL 32805",
+			"Place ID": "ChIJvYYlebB754gRNsHWuKA8hzQ",
+			"Website": "cowboysorlando.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "Y", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Cowboys+Orlando/@28.5290071,-81.4078598,15z/data=!3m1!4b1!4m6!3m5!1s0x88e77bb0792586bd:0x34873ca0b8d6c136!8m2!3d28.5290075!4d-81.3975815!16s%2Fg%2F1tjz8s85?entry=ttu"
+		},
+		{
+			"Name": "Cowboys Red River",
+			"Coordinate": {
+				"Latitude": 32.8616282, 
+				"Longitude": -96.89833
+			},
+			"Country": "United States",
+			"State": "TX",
+			"Address": "10310 Technology Blvd W, Dallas, TX 75220",
+			"Place ID": "ChIJT0BPkBWdToYRrVyo38o98Fk",
+			"Website": "cowboysdancehall.com",
+			"Dance Style": {
+				"Line Dance": false, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": true, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": true
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "Y", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Cowboys+Red+River+%7C+Dancehall+%26+Saloon/@32.8616278,-96.9086079,15z/data=!3m1!4b1!4m6!3m5!1s0x864e9d15904f404f:0x59f03dcadfa85cad!8m2!3d32.8616282!4d-96.8983296!16s%2Fm%2F0llskgd?entry=ttu"
+		},
+		{
+			"Name": "Coyote Joe's",
+			"Coordinate": {
+				"Latitude": 35.2275839, 
+				"Longitude": -80.915971
+			},
+			"Country": "United States",
+			"State": "NC",
+			"Address": "4621 Wilkinson Blvd, Charlotte, NC 28208",
+			"Place ID": "ChIJJVi-4AuiVogR5mi3-SozVhU",
+			"Website": "coyote-joes.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Coyote+Joe's/@35.2275898,-80.926247,15z/data=!3m1!4b1!4m6!3m5!1s0x8856a20be0be5825:0x1556332af9b768e6!8m2!3d35.2275902!4d-80.9159687!16s%2Fm%2F0k3pb78?entry=ttu"
+		},
+		{
+			"Name": "Dallas Bull",
+			"Coordinate": {
+				"Latitude": 27.9738874, 
+				"Longitude": -82.36094
+			},
+			"Country": "United States",
+			"State": "FL",
+			"Address": "3322 US-301, Tampa, FL 33619",
+			"Place ID": "ChIJ29-_Zz7PwogRSOv27yMyNdo",
+			"Website": "dallasbull.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Dallas+Bull/@27.9738976,-82.371225,15z/data=!3m1!4b1!4m6!3m5!1s0x88c2cf3e67bfdfdb:0xda353223eff6eb48!8m2!3d27.973898!4d-82.3609467!16s%2Fg%2F1whdk41d?entry=ttu"
+		},
+		{
+			"Name": "Denim & Diamonds",
+			"Coordinate": {
+				"Latitude": 33.4164062, 
+				"Longitude": -111.67287
+			},
+			"Country": "United States",
+			"State": "AZ",
+			"Address": "7336 E Main St, Mesa, AZ 85207",
+			"Place ID": "ChIJBRnou-avK4cRcw5prOs8NVk",
+			"Website": "denimanddiamondsmesaaz.com",
+			"Dance Style": {
+				"Line Dance": false, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": true, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "Y", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Denim+%26+Diamonds/@33.4164058,-111.683149,15z/data=!3m1!4b1!4m6!3m5!1s0x872bafe6bbe81905:0x59353cebac690e73!8m2!3d33.4164062!4d-111.6728707!16s%2Fg%2F1tfbnt4b?entry=ttu"
+		},
+		{
+			"Name": "Diamond Music Hall",
+			"Coordinate": {
+				"Latitude": 38.7934764, 
+				"Longitude": -90.573529
+			},
+			"Country": "United States",
+			"State": "MO",
+			"Address": "4109 N Cloverleaf Dr, St Peters, MO 63376",
+			"Place ID": "ChIJ4Skwl2Ap34cRhLI9QiWpZ7A",
+			"Website": "diamondmusichall.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": true, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "7:00 PM - 12:00 PM", 
+				"Wednesday": "6:00 PM - 12:00 PM", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "Line Dance: 7:00 PM - 9:00 PM", 
+				"Wednesday": "Line Dance: 6:00 PM - 8:00 PM", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "21+",
+			"Cover Fee": {
+				"Under 21": "N", 
+				"21+": "N"
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Diamond+Music+Hall/@38.793894,-90.583807,15z/data=!3m1!4b1!4m6!3m5!1s0x87df2960973029e1:0xb067a925423db284!8m2!3d38.7938945!4d-90.5735287!16s%2Fg%2F11fj0034jq?entry=ttu"
+		},
+		{
+			"Name": "Dixie Roadhouse",
+			"Coordinate": {
+				"Latitude": 26.56395, 
+				"Longitude": -81.951567
+			},
+			"Country": "United States",
+			"State": "FL",
+			"Address": "1023 SE 47th Terrace, Cape Coral, FL 33904",
+			"Place ID": "ChIJAwj_mlQ_24gRG6w-5RsYEVU",
+			"Website": "thedixie.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Dixie+Roadhouse/@26.5639507,-81.9618488,15z/data=!3m1!4b1!4m6!3m5!1s0x88db3f549aff0803:0x5511181be53eac1b!8m2!3d26.5639511!4d-81.9515705!16s%2Fg%2F1tdhftgg?entry=ttu"
+		},
+		{
+			"Name": "Electric Cowboy Lewisville",
+			"Coordinate": {
+				"Latitude": 33.0296392, 
+				"Longitude": -96.995987
+			},
+			"Country": "United States",
+			"State": "TX",
+			"Address": "1165 S Stemmons Fwy #130, Lewisville, TX 75067",
+			"Place ID": "ChIJxW8d928uTIYRgFaMcn0a3_Q",
+			"Website": "electriccowboy.com",
+			"Dance Style": {
+				"Line Dance": false, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": true, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Electric+Cowboy+Lewisville/@33.0296388,-97.0062655,15z/data=!3m1!4b1!4m6!3m5!1s0x864c2e6ff71d6fc5:0xf4df1a7d728c5680!8m2!3d33.0296392!4d-96.9959872!16s%2Fg%2F1vzn5zdp?entry=ttu"
+		},
+		{
+			"Name": "Elks Lodge",
+			"Coordinate": {
+				"Latitude": 38.5654415, 
+				"Longitude": -90.322557
+			},
+			"Country": "United States",
+			"State": "MO",
+			"Address": "6330 Heege Rd, St. Louis, MO 63123",
+			"Place ID": "ChIJka09xYvJ2IcRk0JYdMVO-rY",
+			"Website": "elks.org",
+			"Dance Style": {
+				"Line Dance": false, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": true
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Elks+Lodge/@38.565228,-90.3227822,20z/data=!4m15!1m8!3m7!1s0x87d8c98bdaa27c3f:0x6c4a155a16589f51!2s6330+Heege+Rd,+Affton,+MO+63123!3b1!8m2!3d38.5652772!4d-90.3225297!16s%2Fg%2F11bw4mstcj!3m5!1s0x87d8c98bc53dad91:0xb6fa4ec574584293!8m2!3d38.5654415!4d-90.322557!16s%2Fg%2F1tdrfxhy?entry=ttu"
+		},
+		{
+			"Name": "Flannagan's Dublin",
+			"Coordinate": {
+				"Latitude": 40.1064799, 
+				"Longitude": -83.089718
+			},
+			"Country": "United States",
+			"State": "OH",
+			"Address": "6835 Caine Rd, Columbus, OH 43235",
+			"Place ID": "ChIJV32WclLtOIgRHVCI9tXSwG4",
+			"Website": "flannagans.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Flannagan's+Dublin/@40.1064799,-83.0897182,17z/data=!3m1!4b1!4m6!3m5!1s0x8838ed5272967d57:0x6ec0d2d5f688501d!8m2!3d40.1064799!4d-83.0897182!16s%2Fg%2F1wn34b7y?entry=ttu"
+		},
+		{
+			"Name": "Florida Round Up",
+			"Coordinate": {
+				"Latitude": 26.138247, 
+				"Longitude": -80.121812
+			},
+			"Country": "United States",
+			"State": "FL",
+			"Address": "1007 N Federal Hwy, Fort Lauderdale, FL 33304",
+			"Place ID": "ChIJN-Ab9bcB2YgR5HEDCj4ITs8",
+			"Website": "floridaroundup.net",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Florida+Round+Up/@26.1382466,-80.1320905,15z/data=!3m1!4b1!4m6!3m5!1s0x88d901b7f51be037:0xcf4e083e0a0371e4!8m2!3d26.138247!4d-80.1218122!16s%2Fg%2F11cs4g7gv9?entry=ttu"
+		},
+		{
+			"Name": "Global Brew",
+			"Coordinate": {
+				"Latitude": 38.607819, 
+				"Longitude": -90.36526
+			},
+			"Country": "United States",
+			"State": "MO",
+			"Address": "9578 Manchester Rd, St. Louis, MO 63119",
+			"Place ID": "ChIJ28dmNZ3L2IcR5COdbdIIxys",
+			"Website": "globalbrew.com",
+			"Dance Style": {
+				"Line Dance": false, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": true
+			},
+			"Dance Schedule": {
+				"Monday": "Y", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Global+Brew/@38.6804819,-90.8060103,9z/data=!4m10!1m2!2m1!1sGlobal+Brew!3m6!1s0x87d8cb9d3566c7db:0x2bc708d26d9d23e4!8m2!3d38.607828!4d-90.3652698!15sCgtHbG9iYWwgQnJldyIDiAEBWg0iC2dsb2JhbCBicmV3kgEDYmFy4AEA!16s%2Fg%2F11bwfm7rzs?entry=ttu"
+		},
+		{
+			"Name": "Gus' Warehouse",
+			"Coordinate": {
+				"Latitude": 34.721008, 
+				"Longitude": -77.321406
+			},
+			"Country": "United States",
+			"State": "NC",
+			"Address": "111 Carver Dr, Midway Park, NC 28544",
+			"Place ID": "ChIJLxeR9c0EqYkRdkv0lQBuwPs",
+			"Website": "https://www.facebook.com/guscountry?mibextid=LQQJ4d",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Gus'+Warehouse/@34.7210166,-77.3214162,17z/data=!3m1!4b1!4m6!3m5!1s0x89a904cdf591172f:0xfbc06e0095f44b76!8m2!3d34.7210166!4d-77.3214162!16s%2Fg%2F1whdk6gv?entry=ttu"
+		},
+		{
+			"Name": "HonkyTonk Saloon",
+			"Coordinate": {
+				"Latitude": 32.994833, 
+				"Longitude": -80.096557
+			},
+			"Country": "United States",
+			"State": "SC",
+			"Address": "192 College Park Rd, Ladson, SC 29456",
+			"Place ID": "ChIJcQrYw9Vh_ogR9orbRB-9w4k",
+			"Website": "honkytonksaloon.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": true, 
+				"Texas Two-Step": true, 
+				"Bar Coast Swing": false, 
+				"Country Swing": true, 
+				"East Coast Swing": true, 
+				"West Coast Swing": true
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "Y", 
+				"Saturday": "Y", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "Y", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/HonkyTonk/@32.9948171,-80.106828,15z/data=!3m1!4b1!4m6!3m5!1s0x88fe61d5c3d80a71:0x89c3bd1f44db8af6!8m2!3d32.9948175!4d-80.0965497!16s%2Fg%2F1v2pr1qv?entry=ttu"
+		},
+		{
+			"Name": "InCahoots",
+			"Coordinate": {
+				"Latitude": 33.8578541, 
+				"Longitude": -117.92068
+			},
+			"Country": "United States",
+			"State": "CA",
+			"Address": "1401 S Lemon St, Fullerton, CA 92832",
+			"Place ID": "ChIJBZwF4ADW3IARKcrH7UEwkXc",
+			"Website": "ocincahoots.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "Y", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "Y", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "12", 
+				"21+": "5"
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/InCahoots/@33.8578537,-117.9309605,15z/data=!3m1!4b1!4m6!3m5!1s0x80dcd600e0059c05:0x77913041edc7ca29!8m2!3d33.8578541!4d-117.9206822!16s%2Fg%2F1z44bdl7f?entry=ttu"
+		},
+		{
+			"Name": "Iron Saddle Ranch",
+			"Coordinate": {
+				"Latitude": 38.6044652, 
+				"Longitude": -88.970501
+			},
+			"Country": "United States",
+			"State": "IL",
+			"Address": "3734 Cross Rd, Salem, IL 62881",
+			"Place ID": "ChIJ1Yonf4andogR4zMtj31gpOk",
+			"Website": "ironsaddleranch.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "Y", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Iron+Saddle+Ranch/@38.6044648,-88.9807791,15z/data=!3m1!4b1!4m6!3m5!1s0x8876a7867f278ad5:0xe9a4607d8f2d33e3!8m2!3d38.6044652!4d-88.9705008!16s%2Fg%2F11fkw95l_m?entry=ttu"
+		},
+		{
+			"Name": "Joyland Live Music Venue",
+			"Coordinate": {
+				"Latitude": 27.39123, 
+				"Longitude": -82.503051
+			},
+			"Country": "United States",
+			"State": "FL",
+			"Address": "8341 Lockwood Ridge Rd, Sarasota, FL 34243",
+			"Place ID": "ChIJv8qJUuIVw4gR3V0HYAQ2Ll4",
+			"Website": "joylandsarasota.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Joyland+Live+Music+Venue/@27.3912296,-82.5133288,15z/data=!3m1!4b1!4m6!3m5!1s0x88c315e25289cabf:0x5e2e360460075ddd!8m2!3d27.39123!4d-82.5030505!16s%2Fg%2F1tgj9m2y?entry=ttu"
+		},
+		{
+			"Name": "Just Dancing Studio St Louis",
+			"Coordinate": {
+				"Latitude": 38.5907505, 
+				"Longitude": -90.510827
+			},
+			"Country": "United States",
+			"State": "MO",
+			"Address": "236 Old Meramec Station Rd, Manchester, MO 63021",
+			"Place ID": "ChIJ_btpWJPT2IcRlIf5MyH3VUk",
+			"Website": "justdancingstudio.com",
+			"Dance Style": {
+				"Line Dance": false, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": true
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "Y", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Just+Dancing+Studio+St.+Louis/@38.5907627,-90.521148,15z/data=!3m1!4b1!4m6!3m5!1s0x87d8d3935869bbfd:0x4955f72133f98794!8m2!3d38.5907631!4d-90.5108697!16s%2Fg%2F1tjbsq6n?entry=ttu"
+		},
+		{
+			"Name": "Kirkwood Community Center",
+			"Coordinate": {
+				"Latitude": 38.5805684, 
+				"Longitude": -90.416127
+			},
+			"Country": "United States",
+			"State": "MO",
+			"Address": "111 S Geyer Rd, Kirkwood, MO 63122",
+			"Place ID": "ChIJVXTeyM3N2IcRvKU7k-V9YWw",
+			"Website": "kirkwoodparksandrec.org",
+			"Dance Style": {
+				"Line Dance": false, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": true
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Kirkwood+Community+Center/@38.5808404,-90.4169066,18.95z/data=!4m6!3m5!1s0x87d8cdcdc8de7455:0x6c617de5933ba5bc!8m2!3d38.5805684!4d-90.4161271!16s%2Fg%2F11b7fz50qr?entry=ttu"
+		},
+		{
+			"Name": "Loafers Beach Club",
+			"Coordinate": {
+				"Latitude": 35.8164138, 
+				"Longitude": -78.622215
+			},
+			"Country": "United States",
+			"State": "NC",
+			"Address": "605 Creekside Dr, Raleigh, NC 27609",
+			"Place ID": "ChIJ057tzdFYrIkRdychrKWUgKU",
+			"Website": "",
+			"Dance Style": {
+				"Line Dance": false, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": true
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "Y", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Loafers+Beach+Club/@35.8164134,-78.6324935,15z/data=!3m1!4b1!4m6!3m5!1s0x89ac58d1cded9ed3:0xa58094a5ac212777!8m2!3d35.8164138!4d-78.6222152!16s%2Fg%2F1hg4ykgpy?entry=ttu"
+		},
+		{
+			"Name": "MO Country",
+			"Coordinate": {
+				"Latitude": 39.0190446, 
+				"Longitude": -94.189692
+			},
+			"Country": "United States",
+			"State": "MO",
+			"Address": "401 S Outer Rd E, Grain Valley, MO 64029",
+			"Place ID": "ChIJY6ejKh4RwYcRJ8fqxh44gIs",
+			"Website": "mo-country.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/MO+Country/@39.0190887,-94.1999771,15z/data=!3m1!4b1!4m6!3m5!1s0x87c1111e2aa3a763:0x8b80381ec6eac727!8m2!3d39.0190892!4d-94.1896988!16s%2Fg%2F1tfrbq1p?entry=ttu"
+		},
+		{
+			"Name": "Montana's",
+			"Coordinate": {
+				"Latitude": 34.1061479, 
+				"Longitude": -117.81781
+			},
+			"Country": "United States",
+			"State": "CA",
+			"Address": "657 W Arrow Hwy, San Dimas, CA 91773",
+			"Place ID": "ChIJkVULEzovw4ARp8yTGe6lar0",
+			"Website": "montanas-countrynightclub.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "Y", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Montana's/@34.1061475,-117.8280906,15z/data=!3m1!4b1!4m6!3m5!1s0x80c32f3a130b5591:0xbd6aa5ee1993cca7!8m2!3d34.1061479!4d-117.8178123!16s%2Fg%2F1xpwk1ch?entry=ttu"
+		},
+		{
+			"Name": "Moonshine Beach",
+			"Coordinate": {
+				"Latitude": 32.7979611, 
+				"Longitude": -117.24846
+			},
+			"Country": "United States",
+			"State": "CA",
+			"Address": "1165 Garnet Ave, San Diego, CA 92109",
+			"Place ID": "ChIJw23EOOsB3IAR8rGnB0yQCFg",
+			"Website": "moonshinebeachsd.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "Y", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Moonshine+Beach/@32.7979697,-117.2587414,15z/data=!3m1!4b1!4m6!3m5!1s0x80dc01eb38c46dc3:0x5808904c07a7b1f2!8m2!3d32.7979701!4d-117.2484631!16s%2Fg%2F11bzx4dc_3?entry=ttu"
+		},
+		{
+			"Name": "Moonshine Flats",
+			"Coordinate": {
+				"Latitude": 32.708956, 
+				"Longitude": -117.15842
+			},
+			"Country": "United States",
+			"State": "CA",
+			"Address": "344 7th Ave, San Diego, CA 92101",
+			"Place ID": "ChIJ87u9y1tT2YARsZev2Zrz-HA",
+			"Website": "moonshineflats.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "Y", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Moonshine+Flats/@32.7089556,-117.1687015,15z/data=!3m1!4b1!4m6!3m5!1s0x80d9535bcbbdbbf3:0x70f8f39ad9af97b1!8m2!3d32.708956!4d-117.1584232!16s%2Fg%2F1pxw9c88r?entry=ttu"
+		},
+		{
+			"Name": "Nashville North",
+			"Coordinate": {
+				"Latitude": 47.7074107, 
+				"Longitude": -117.03224
+			},
+			"Country": "United States",
+			"State": "ID",
+			"Address": "6361 W Seltice Way, Post Falls, ID 83854",
+			"Place ID": "ChIJR3QUZRDdYVMRK7m5jNegWbc",
+			"Website": "thenashvillenorth.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Nashville+North/@47.7074524,-117.0327826,18.41z/data=!4m15!1m8!3m7!1s0x5361dd106514744f:0xd1a8788f71a0aafe!2s6361+W+Seltice+Way,+Post+Falls,+ID+83854!3b1!8m2!3d47.7074366!4d-117.0322239!16s%2Fg%2F11bw3yskd5!3m5!1s0x5361dd1065147447:0xb759a0d78cb9b92b!8m2!3d47.7074154!4d-117.0322381!16s%2Fg%2F11c4kkf4ql?entry=ttu"
+		},
+		{
+			"Name": "Nashville Palace",
+			"Coordinate": {
+				"Latitude": 36.217732, 
+				"Longitude": -86.698216
+			},
+			"Country": "United States",
+			"State": "TN",
+			"Address": "2611 McGavock Pk, Nashville, TN 37214",
+			"Place ID": "ChIJoT1BhtVpZIgRaPP7QkqGWLE",
+			"Website": "thefamousnashvillepalace.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "Y", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/The+Nashville+Palace/@36.217732,-86.698216,17z/data=!3m1!4b1!4m6!3m5!1s0x886469d586413da1:0xb158864a42fbf368!8m2!3d36.217732!4d-86.698216!16s%2Fm%2F0k10ytq?entry=ttu"
+		},
+		{
+			"Name": "Ole Red",
+			"Coordinate": {
+				"Latitude": 35.7144982, 
+				"Longitude": -83.510595
+			},
+			"Country": "United States",
+			"State": "TN",
+			"Address": "511 Parkway, Gatlinburg, TN 37738",
+			"Place ID": "ChIJVU91exZVWYgRki5EPLqxOUQ",
+			"Website": "olered.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Ole+Red/@35.714461,-83.5112315,19.55z/data=!4m15!1m8!3m7!1s0x885955dec17a29c7:0x7b7d8feafe9dcf50!2s511+Parkway,+Gatlinburg,+TN+37738!3b1!8m2!3d35.7144654!4d-83.5107709!16s%2Fg%2F11bw3z4n88!3m5!1s0x885955167b754f55:0x4439b1ba3c442e92!8m2!3d35.7144982!4d-83.5105952!16s%2Fg%2F11gxvs1f51?entry=ttu"
+		},
+		{
+			"Name": "Pla Mor Ballroom",
+			"Coordinate": {
+				"Latitude": 40.8142191, 
+				"Longitude": -96.810476
+			},
+			"Country": "United States",
+			"State": "NE",
+			"Address": "6600 W O St, Lincoln, NE 68528",
+			"Place ID": "ChIJ2znsYRTBlocRGOoTysB2tes",
+			"Website": "plamorballroom.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": "Y"
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": "Line Dance: 7:00 PM - 8:00 PM"
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "N", 
+				"21+": "N"
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Pla+Mor+Ballroom/@40.8142087,-96.8207567,15z/data=!3m1!4b1!4m6!3m5!1s0x8796c11461ec39db:0xebb576c0ca13ea18!8m2!3d40.8142092!4d-96.8104784!16s%2Fg%2F1vqth8sr?entry=ttu"
+		},
+		{
+			"Name": "Ponderosa Social Club",
+			"Coordinate": {
+				"Latitude": 45.6881336, 
+				"Longitude": -111.04466
+			},
+			"Country": "United States",
+			"State": "MT",
+			"Address": "515 W Aspen St, Bozeman, MT 59715",
+			"Place ID": "ChIJ9bT9-E1FRVMRCojCyy05rA4",
+			"Website": "ponderosamt.com",
+			"Dance Style": {
+				"Line Dance": false, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": true, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "Y", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/The+Ponderosa+Social+Club/@45.6877525,-111.0549058,15z/data=!3m1!4b1!4m6!3m5!1s0x5345454df8fdb4f5:0xeac392dcbc2880a!8m2!3d45.687753!4d-111.0446275!16s%2Fg%2F11qbbfxf4f?entry=ttu"
+		},
+		{
+			"Name": "Renegades Country Bar & Grill",
+			"Coordinate": {
+				"Latitude": 26.7141614, 
+				"Longitude": -80.09858
+			},
+			"Country": "United States",
+			"State": "FL",
+			"Address": "Renegades, 600 Village Blvd, West Palm Beach, FL 33409",
+			"Place ID": "ChIJfyMukMEp2YgRvcDf3M5ovEU",
+			"Website": "renegadeswpb.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Renegades+Country+Bar+%26+Grill/@26.7141614,-80.0985797,17z/data=!3m1!4b1!4m6!3m5!1s0x88d929c1902e237f:0x45bc68cedcdfc0bd!8m2!3d26.7141614!4d-80.0985797!16s%2Fg%2F11b77sqmgt?entry=ttu"
+		},
+		{
+			"Name": "Round-Up Saloon",
+			"Coordinate": {
+				"Latitude": 32.8107179, 
+				"Longitude": -96.810298
+			},
+			"Country": "United States",
+			"State": "TX",
+			"Address": "3912 Cedar Springs Rd, Dallas, TX 75219",
+			"Place ID": "ChIJ4WsbDcmeToYReIPbP3ZwAd8",
+			"Website": "roundupsaloon.com",
+			"Dance Style": {
+				"Line Dance": false, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": true, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Round-Up+Saloon/@32.8107175,-96.8205766,15z/data=!3m1!4b1!4m6!3m5!1s0x864e9ec90d1b6be1:0xdf0170763fdb8378!8m2!3d32.8107179!4d-96.8102983!16s%2Fg%2F1tgwb9pp?entry=ttu"
+		},
+		{
+			"Name": "Saddle Up at Q Saloon and Eatery",
+			"Coordinate": {
+				"Latitude": 41.753236, 
+				"Longitude": -88.20843
+			},
+			"Country": "United States",
+			"State": "IL",
+			"Address": "4440 Ogden Ave, Aurora, IL 60504",
+			"Place ID": "ChIJT3sOOdP5DogR-D3LFOPrcMA",
+			"Website": "saddleupatq.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "Y", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Saddle+Up+at+Q+Saloon+and+Eatery/@41.7532593,-88.218716,15z/data=!3m1!4b1!4m6!3m5!1s0x880ef9d3390e7b4f:0xc070ebe314cb3df8!8m2!3d41.7532598!4d-88.2084377!16s%2Fg%2F1tk23jbz?entry=ttu"
+		},
+		{
+			"Name": "Sadler's Kitchen",
+			"Coordinate": {
+				"Latitude": 31.9631417, 
+				"Longitude": -95.275271
+			},
+			"Country": "United States",
+			"State": "TX",
+			"Address": "101 S Bonner St, Jacksonville, TX 75766",
+			"Place ID": "ChIJLRuQmNHUN4YRoRn9SwZAveQ",
+			"Website": "sadlerskitchen.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Sadler's+Kitchen/@31.9631413,-95.2855492,15z/data=!3m1!4b1!4m6!3m5!1s0x8637d4d198901b2d:0xe4bd40064bfd19a1!8m2!3d31.9631417!4d-95.2752709!16s%2Fg%2F1td2h9b4?entry=ttu"
+		},
+		{
+			"Name": "Skyline Club",
+			"Coordinate": {
+				"Latitude": 33.946199, 
+				"Longitude": -81.110843
+			},
+			"Country": "United States",
+			"State": "SC",
+			"Address": "100 Lee St, West Columbia, SC 29170",
+			"Place ID": "ChIJf2EVHDW9-IgR_Oe51jhCO2U",
+			"Website": "skylineclubsc.net",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Skyline+Club/@33.946149,-81.1107114,17z/data=!3m1!4b1!4m6!3m5!1s0x88f8bd351c15617f:0x653b4238d6b9e7fc!8m2!3d33.946149!4d-81.1107114!16s%2Fg%2F11v48sw_dt?entry=ttu"
+		},
+		{
+			"Name": "Southside Community Center, Spokane WA",
+			"Coordinate": {
+				"Latitude": 47.6315048, 
+				"Longitude": -117.36375
+			},
+			"Country": "United States",
+			"State": "WA",
+			"Address": "3151 E 27th Ave, Spokane, WA 99223",
+			"Place ID": "ChIJQ4elEEIinlQR1hVHTgb9NY8",
+			"Website": "spokanesouthside.org",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Southside+Community+Center,+Spokane+WA/@47.6447086,-117.4758712,12z/data=!4m10!1m2!2m1!1ssouthside+community+center+spokane+wa!3m6!1s0x549e224210a58743:0x8f35fd064e4715d6!8m2!3d47.6315048!4d-117.3637536!15sCiVzb3V0aHNpZGUgY29tbXVuaXR5IGNlbnRlciBzcG9rYW5lIHdhkgEQY29tbXVuaXR5X2NlbnRlcuABAA!16s%2Fg%2F1tsjdcht?entry=ttu"
+		},
+		{
+			"Name": "Stampede",
+			"Coordinate": {
+				"Latitude": 34.0908273, 
+				"Longitude": -118.3741
+			},
+			"Country": "United States",
+			"State": "CA",
+			"Address": "4024 Radford Ave, Studio City, CA 91604",
+			"Place ID": "ChIJhS-0o8m_woARSKsB7iC9K-M",
+			"Website": "stampedeventures.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "Y", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Stampede/@34.1445702,-118.3924561,21z/data=!4m15!1m8!3m7!1s0x80c2bfc9a3b42f85:0xe32bbd20ee01ab48!2sStampede!8m2!3d34.144598!4d-118.392356!10e5!16s%2Fg%2F11dyn3_23g!3m5!1s0x80c2bfc9a3b42f85:0xe32bbd20ee01ab48!8m2!3d34.144598!4d-118.392356!16s%2Fg%2F11dyn3_23g?entry=ttu"
+		},
+		{
+			"Name": "Stocks n Bonds",
+			"Coordinate": {
+				"Latitude": 41.2024705, 
+				"Longitude": -96.044484
+			},
+			"Country": "United States",
+			"State": "NE",
+			"Address": "8528 Park Dr, Omaha, NE 68127",
+			"Place ID": "ChIJi-hMFz6Lk4cREMBqO7ymVDc",
+			"Website": "stocksnbondsne.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": true, 
+				"Texas Two-Step": true, 
+				"Bar Coast Swing": true, 
+				"Country Swing": true, 
+				"East Coast Swing": true, 
+				"West Coast Swing": true
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "Y", 
+				"Thursday": "", 
+				"Friday": "Y", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "Line Dance: 8:00 PM - 9:00 PM", 
+				"Thursday": "", 
+				"Friday": "Line Dance: 8:00 PM - 9:00 PM", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "N", 
+				"21+": "N"
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Stocks+n+Bonds/@41.2024923,-96.0446149,21z/data=!4m6!3m5!1s0x87938b3e174ce88b:0x3754a6bc3b6ac010!8m2!3d41.2024705!4d-96.0444839!16s%2Fg%2F11h0mc7lcq?entry=ttu"
+		},
+		{
+			"Name": "Stovall's Grove Incorporated",
+			"Coordinate": {
+				"Latitude": 38.5497136, 
+				"Longitude": -90.706131
+			},
+			"Country": "United States",
+			"State": "MO",
+			"Address": "18720 Stovall Ln, Pacific, MO 63069",
+			"Place ID": "ChIJq__YxpMu2YcRw1vqt8D2GyA",
+			"Website": "stovallsgrove.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": true, 
+				"Classic Two-Step": true, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "7:00 PM - 9:00 PM", 
+				"Thursday": "7:00 PM - 9:00 PM", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "Y", 
+				"Tuesday": "", 
+				"Wednesday": "Line Dance: 7:00 PM - 9:00 PM", 
+				"Thursday": "Line Dance: 7:00 PM - 9:00 PM", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Stovall's+Grove+Incorporated/@38.5497132,-90.7164096,15z/data=!3m1!4b1!4m6!3m5!1s0x87d92e93c6d8ffab:0x201bf6c0b7ea5bc3!8m2!3d38.5497136!4d-90.7061313!16s%2Fg%2F1tfntk4t?entry=ttu"
+		},
+		{
+			"Name": "Temecula Stampede",
+			"Coordinate": {
+				"Latitude": 33.4916654, 
+				"Longitude": -117.14718
+			},
+			"Country": "United States",
+			"State": "CA",
+			"Address": "28721 Old Town Front St, Temecula, CA 92590",
+			"Place ID": "ChIJn-yS-75_24AR0ywOxEjD-lc",
+			"Website": "thetemeculastampede.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "Y", 
+				"Friday": "Y", 
+				"Saturday": "Y", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "20", 
+				"21+": "10"
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Temecula+Stampede/@33.491665,-117.1574632,15z/data=!3m1!4b1!4m6!3m5!1s0x80db7fbefb92ec9f:0x57fac348c40e2cd3!8m2!3d33.4916654!4d-117.1471849!16s%2Fg%2F1v1kq4jz?entry=ttu"
+		},
+		{
+			"Name": "The Barn in Sanford",
+			"Coordinate": {
+				"Latitude": 28.8013744, 
+				"Longitude": -81.273476
+			},
+			"Country": "United States",
+			"State": "FL",
+			"Address": "1200 S French Ave, Sanford, FL 32771",
+			"Place ID": "ChIJ8QTtKHMT54gR_ucFCO6b4RE",
+			"Website": "thebarninsanford.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/The+Barn+in+Sanford/@28.8013807,-81.2837606,15z/data=!3m1!4b1!4m6!3m5!1s0x88e7137328ed04f1:0x11e19bee0805e7fe!8m2!3d28.8013811!4d-81.2734823!16s%2Fg%2F1hc5866h8?entry=ttu"
+		},
+		{
+			"Name": "The Dusty Armadillo",
+			"Coordinate": {
+				"Latitude": 41.0752126, 
+				"Longitude": -81.243733
+			},
+			"Country": "United States",
+			"State": "OH",
+			"Address": "3147 OH-44, Rootstown, OH 44272",
+			"Place ID": "ChIJu07gIS83MYgRiUO8suMESbY",
+			"Website": "dustya.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/The+Dusty+Armadillo/@41.0752126,-81.2437331,17z/data=!3m1!4b1!4m6!3m5!1s0x8831372f21e04ebb:0xb64904e3b2bc4389!8m2!3d41.0752126!4d-81.2437331!16s%2Fm%2F01011vc7?entry=ttu"
+		},
+		{
+			"Name": "The Fat Toad",
+			"Coordinate": {
+				"Latitude": 40.8134573, 
+				"Longitude": -96.700758
+			},
+			"Country": "United States",
+			"State": "NE",
+			"Address": "1409 O St, Lincoln, NE 68508",
+			"Place ID": "ChIJXY-IZvu-locR-d1ssm9aLkc",
+			"Website": "https://www.facebook.com/FatToadPub",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": true, 
+				"Texas Two-Step": true, 
+				"Bar Coast Swing": false, 
+				"Country Swing": true, 
+				"East Coast Swing": true, 
+				"West Coast Swing": true
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": "9:00 PM - 2:00 AM"
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": "Line Dance: 9:00 PM - 2:00 AM"
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "N", 
+				"21+": "N"
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/The+Fat+Toad/@40.8132965,-96.7110421,15z/data=!3m1!4b1!4m6!3m5!1s0x8796befb66888f5d:0x472e5a6fb26cddf9!8m2!3d40.813297!4d-96.7007638!16s%2Fg%2F12qf8xtyt?entry=ttu"
+		},
+		{
+			"Name": "The Lodge at Boulder Lake",
+			"Coordinate": {
+				"Latitude": 38.91512974, 
+				"Longitude": -91.038043
+			},
+			"Country": "United States",
+			"State": "MO",
+			"Address": "59 Boulder Lk Mnr Dr, Troy, MO 63379",
+			"Place ID": "ChIJh3SQSbq83ocRjhK15xUrd6M",
+			"Website": "thelodgeatboulderlake.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": true, 
+				"Classic Two-Step": true, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": true, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "7:00 PM - 12:00 AM", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "Line Dance: 7:00 PM - 7:30 PM | Pattern Partner: 7:30 PM - 8:00 PM", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "18+",
+			"Cover Fee": {
+				"Under 21": "10", 
+				"21+": "5"
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/The+Lodge+at+Boulder+Lake/@38.9149957,-91.0483217,15z/data=!3m1!4b1!4m6!3m5!1s0x87debcba49907487:0xa3772b15e7b5128e!8m2!3d38.9149962!4d-91.0380434!16s%2Fg%2F11f255kh1n?entry=ttu"
+		},
+		{
+			"Name": "The Ranch Concert Hall & Saloon",
+			"Coordinate": {
+				"Latitude": 26.5958555, 
+				"Longitude": -81.869173
+			},
+			"Country": "United States",
+			"State": "FL",
+			"Address": "2158 Colonial Blvd, Fort Myers, FL 33907",
+			"Place ID": "ChIJK4oN4yZA24gRotBHE3ET2y0",
+			"Website": "theranchfortmyers.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/The+Ranch+Concert+Hall+%26+Saloon/@26.5958551,-81.8794509,15z/data=!3m2!4b1!5s0x88db4026a45c5b93:0xc157de70f7d3a385!4m6!3m5!1s0x88db4026e30d8a2b:0x2ddb13711347d0a2!8m2!3d26.5958555!4d-81.8691726!16s%2Fg%2F11b75ktpkx?entry=ttu"
+		},
+		{
+			"Name": "THE RANCH Saloon",
+			"Coordinate": {
+				"Latitude": 33.8186187, 
+				"Longitude": -117.89722
+			},
+			"Country": "United States",
+			"State": "CA",
+			"Address": "1025 E Ball Rd #101b, Anaheim, CA 92805",
+			"Place ID": "ChIJHWEClbbX3IAREyBE2KCJwxY",
+			"Website": "theranch.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": true, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": true, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "Y", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/THE+RANCH+Saloon/@33.8186183,-117.9075027,15z/data=!3m1!4b1!4m6!3m5!1s0x80dcd7b69502611d:0x16c389a0d8442013!8m2!3d33.8186187!4d-117.8972244!16s%2Fg%2F11f_104x96?entry=ttu"
+		},
+		{
+			"Name": "The Stockyard",
+			"Coordinate": {
+				"Latitude": 28.186866, 
+				"Longitude": -82.738909
+			},
+			"Country": "United States",
+			"State": "FL",
+			"Address": "1916 US-19, Holiday, FL 34691",
+			"Place ID": "ChIJ6zqBMveNwogRss-2VFiKM7g",
+			"Website": "stockyardlive.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/The+Stockyard/@28.1868656,-82.7491875,15z/data=!3m1!4b1!4m6!3m5!1s0x88c28df732813aeb:0xb8338a5854b6cfb2!8m2!3d28.186866!4d-82.7389092!16s%2Fg%2F11c1w_24t6?entry=ttu"
+		},
+		{
+			"Name": "The Whiskey Baron Dance Hall & Saloon",
+			"Coordinate": {
+				"Latitude": 38.9147109, 
+				"Longitude": -104.78593
+			},
+			"Country": "United States",
+			"State": "CO",
+			"Address": "5781 N Academy Blvd, Colorado Springs, CO 80918",
+			"Place ID": "ChIJg23pI-NOE4cR6Z28CoacuzA",
+			"Website": "thewhiskeybarondancehallandsaloon.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "Y", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "Y", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/The+Whiskey+Baron+Dance+Hall+%26+Saloon/@38.9147082,-104.7962178,15z/data=!3m1!4b1!4m6!3m5!1s0x87134ee323e96d83:0x30bb9c860abc9de9!8m2!3d38.9147087!4d-104.7859395!16s%2Fg%2F11g7_5hn07?entry=ttu"
+		},
+		{
+			"Name": "Thirsty Cowboys",
+			"Coordinate": {
+				"Latitude": 41.1370735, 
+				"Longitude": -81.785616
+			},
+			"Country": "United States",
+			"State": "OH",
+			"Address": "2743 Medina Rd, Medina, OH 44256",
+			"Place ID": "ChIJwzhjUbDIMIgRGC7kRICz7TM",
+			"Website": "thirstycowboys.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": true, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": true
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Thirsty+Cowboys/@41.137073,-81.7958938,15z/data=!3m1!4b1!4m6!3m5!1s0x8830c8b0516338c3:0x33edb38044e42e18!8m2!3d41.1370735!4d-81.7856155!16s%2Fg%2F1tngqycr?entry=ttu"
+		},
+		{
+			"Name": "Vivid Music Hall",
+			"Coordinate": {
+				"Latitude": 29.6518275, 
+				"Longitude": -82.326856
+			},
+			"Country": "United States",
+			"State": "FL",
+			"Address": "201 W University Ave, Gainesville, FL 32601",
+			"Place ID": "ChIJXzqBxxSj6IgRU2IaUzNKHgc",
+			"Website": "vividmusichall.com",
+			"Dance Style": {
+				"Line Dance": true, 
+				"Pattern Partner": false, 
+				"Classic Two-Step": false, 
+				"Texas Two-Step": false, 
+				"Bar Coast Swing": false, 
+				"Country Swing": false, 
+				"East Coast Swing": false, 
+				"West Coast Swing": false
+			},
+			"Dance Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Lesson Schedule": {
+				"Monday": "", 
+				"Tuesday": "", 
+				"Wednesday": "", 
+				"Thursday": "", 
+				"Friday": "", 
+				"Saturday": "", 
+				"Sunday": ""
+			},
+			"Age Restriction": "-",
+			"Cover Fee": {
+				"Under 21": "", 
+				"21+": ""
+			},
+			"Notes": "",
+			"Google Maps Link": "https://www.google.com/maps/place/Vivid+Music+Hall/@29.6518271,-82.3371339,15z/data=!3m1!4b1!4m6!3m5!1s0x88e8a314c7813a5f:0x71e4a33531a6253!8m2!3d29.6518275!4d-82.3268556!16s%2Fg%2F11pty9lfkd?entry=ttu"
+		}
+	]
+}

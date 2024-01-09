@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>Country Dance Map</title>
+    <link rel="stylesheet" type="text/css" href="./style.css" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+  </head>
+
+  <body>
+    <header>
+      <nav class="menu">
+        <ul>
+          <li><a href="./index.html">Country Dance Map</a></li>
+          <!-- <li><a href="EventCalendar.html"> Event Calendar</a></li> -->
+          <!-- <li><a href="AboutUs.html"> About Us</a></li> -->
+          <!-- <li><a href="./ContactUs.html">Contact Us</a></li> -->
+          <li>Contact Us</li>
+          <!-- <li><a href="FAQ.html"> FAQ</a></li> -->
+          <li><a href="./SubmitNewLocations.html">Submit New Locations</a></li>
+        </ul>
+      </nav>
+      <section class="webpage"><h1>Contact Us</h1></section>
+    </header>
+    <section style="height: -webkit-fill-available;">
+      <section class = "input" style="margin-top: 10%;">
+        <div class="emailcontainer" >
+            <h4>Send me an email with questions, concerns, or comments that you may have.</h4>
+            <form  method="POST" action="https://formsubmit.co/CountryDanceMap@gmail.com">
+                
+                <input type="hidden" name="_next" value="https://www.countrydancemap.com/EmailThankYou.html">
+                <input type="hidden" name="_captcha" value="false">
+                <input type="text" name="_honey" style="display:none">
+                <ul>
+                  <li>
+                    <label for="name">Name:</label>
+                    <input type="text" id = "name" name="name" class="form-control" placeholder="Full Name" required>
+                  </li>
+                  <li>
+                    <label for="name">Email:</label>
+                    <input type="email" id="email" name="email" class="form-control" placeholder="Email Address" required>
+                  </li>
+                  <li>
+                    <label for="subject">Subject:</label>
+                    <input type="text" id = "subject" name="_subject" class="form-control" placeholder="Subject" required>
+                  </li>
+                  <li>
+                    <label for="message">Message:</label>
+                    <textarea placeholder="Your Message" id="message" class="form-control" name="message" rows="10" required></textarea>  
+                  </li>
+                  <li>
+                    <button type="submit" class="btn btn-lg btn-dark btn-block">Submit Form</button>
+                  </li>
+                </ul>
+                                
+            </form>
+          </div>
+    </section>
+    </section>
+    
+    <footer>The Country Dance Map</footer>
+ </body>
+</html>

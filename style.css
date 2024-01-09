@@ -1,0 +1,208 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: -webkit-fill-available;
+  min-width: min-content;
+}
+
+#mapAndTable{
+  width: -webkit-fill-available;
+  flex-direction: row;
+}
+
+footer{
+  background-color: black;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  font-size: small;
+  width: -webkit-fill-available;
+  position: relative;
+  bottom: 0;
+}
+
+ul{
+  list-style-type: none;
+  padding-inline-start: 0px;
+}
+
+.filter{
+  background-color: black;
+  padding: 0 5% 0 5%;
+  height: fit-content;
+  width: -webkit-fill-available;
+}
+.filter ul{
+  display: flex;
+}
+.filter ul li{
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  width: auto;
+  min-width: fit-content;
+  margin:auto;
+}
+
+.filter select, .filter label {
+  display:block;
+}
+
+#my-map {
+  float: left;
+  width: 60%;
+}
+
+aside{
+  float: left;
+  width: 40%;
+  height: 667px;
+  overflow: auto;
+}
+
+#table1 tr:nth-child(even) {
+  background-color: rgb(216, 215, 215);
+}
+thead{
+  background-color: gray;
+}
+
+thead tr th{
+  text-align: center;
+}
+
+#table1, th, td{
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: -webkit-fill-available;
+}
+
+th, td{
+  font-size: smaller;
+  max-width: 8vw;
+  padding: 2px;
+}
+
+.centerCell{
+  text-align: center;
+}
+header{
+  height: fit-content;
+  background-color: Black;
+  text-align: center;
+  width: -webkit-fill-available;
+}
+
+.menu ul li{
+  color: white;
+  display: inline-block;
+  margin-right: 20px;
+  margin-top: 20px;
+  text-decoration: none;
+  text-transform: uppercase;
+
+}
+
+header a{
+  color: white;
+}
+
+.webpage h1{
+  margin: 0;
+  padding-bottom: 20px;
+  padding-top:  20px;
+  text-align: center;
+  color: White;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+    background-color: blue;
+}
+.thank_you{
+  height: -webkit-fill-available; 
+  text-align: center;
+  width: 50%;
+}
+
+
+/* Request Form */
+form{
+  padding-bottom: 10px; 
+  margin-left: auto;
+}
+
+.input{
+  padding: 5px; 
+  border: 1px solid black; 
+  border-radius: 2px;
+  background: rgb(224, 224, 224);
+  margin: 1%;
+  min-width: max-content;
+}
+
+.LocInfo {
+display: inline-flex;
+}
+.LocInfo div{
+  padding: 2px 0;
+}
+
+.LocInfo section{
+width: -webkit-fill-available;
+align-items: center;
+justify-content:space-evenly;
+}
+
+.startTime{
+  padding: 5px 0;
+}
+
+.form-control{
+  margin-bottom: 10px;
+  width: -webkit-fill-available;
+}
+
+/* Too many Lesson Popups */
+/* The actual popup (appears on top) */
+.popuptext {
+  visibility: hidden;
+  width: 160px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 8px 5px;
+  position: relative;
+  top: 10px;
+  z-index: 1;
+  margin-top: 5px;
+}
+
+
+/* Toggle this class when clicking on the popup container (hide and show the popup) */
+.show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity:1 ;}
+}
